@@ -1,4 +1,4 @@
-# medvantage
+# MedVantage
 MedVantage Patient Information System || Project Management, UE CCSS 2026
 
 # Tech Stack
